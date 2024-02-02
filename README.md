@@ -9,7 +9,7 @@
 - [Overview](#overview)
 
   - [File Structure](#file-structure)
-  - [Technologies Used](#technologies-used)
+  - [Technologies Used](./technologiesUsed.md)
     - [MongoDB](#mongodb)
     - [Express](#express)
     - [React](#react)
@@ -17,7 +17,10 @@
 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Installation](./installation.md)
+    - [Client](#client)
+      -[]
+    - [Server](server)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -58,3 +61,10 @@ project-root/
 <details><summary>Recat</summary></details>
 <details><summary>NodeJS</summary></details>
 <hr>
+
+## Getting Started
+
+## Prerequisites
+
+- Node.js and npm installed on your machine.
+- MongoDB server running (local or remote).
