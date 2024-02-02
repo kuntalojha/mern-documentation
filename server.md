@@ -1,6 +1,6 @@
 # Table of Contents
 - [Server](#server)
-- [Project Structure](#project-structure)
+- [File Structure](./server.md))
 
 
 ## Server

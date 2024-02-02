@@ -19,7 +19,7 @@
   - [Prerequisites](./gettingStarted.md)
   - [Installation](./gettingStarted.md)
     - [Client](./client.md)
-      -[]
+      - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
     - [Server](./server.md)
 
 ## File Structure
