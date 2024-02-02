@@ -6,31 +6,25 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [File Structure](#file-structure)
 
-  - [File Structure](#file-structure)
-  - [Technologies Used](./technologiesUsed.md)
-    - [MongoDB](#mongodb)
-    - [Express](#express)
-    - [React](#react)
-    - [NodeJS](#nodejs)
+- [Technologies Used](./technologiesUsed.md)
 
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](./installation.md)
-    - [Client](#client)
+  - [MongoDB](./technologiesUsed.md#mongodb)
+  - [Express](./technologiesUsed.md#express)
+  - [React](./technologiesUsed.md#react)
+  - [NodeJS](./technologiesUsed.md#nodejs)
+
+- [Getting Started](./gettingStarted.md)
+  - [Prerequisites](./gettingStarted.md)
+  - [Installation](./gettingStarted.md)
+    - [Client](./client.md)
       -[]
-    - [Server](server)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+    - [Server](./server.md)
 
-## Overview
+## File Structure
 
-Here are the complite project structure
-
-> **You should allys flow this structure.**
+> Here are the complite project structure **You should allys flow this structure.**
 
 ```
 project-root/
@@ -56,15 +50,23 @@ project-root/
 
 ## Technologies Used
 
-<details><summary>MongoDB</summary></details>
-<details><summary>Express</summary></details>
-<details><summary>Recat</summary></details>
-<details><summary>NodeJS</summary></details>
-<hr>
+- **Frontend:**
 
-## Getting Started
+  - React: JavaScript library for building user interfaces.
+  - Redux Toolkit: State management library for React applications.
+  - React Router: Declarative navigation for React.js.
+  - Axios: Promise-based HTTP client for making API requests.
 
-## Prerequisites
+- **Backend:**
 
-- Node.js and npm installed on your machine.
-- MongoDB server running (local or remote).
+  - Node.js: JavaScript runtime for server-side development.
+  - Express.js: Web application framework for Node.js.
+  - MongoDB: NoSQL database for storing blog data.
+  - Mongoose: MongoDB object modeling for Node.js.
+
+- **Authentication:**
+  - JSON Web Tokens (JWT): Secure and compact way of representing claims to be transferred between two parties.
+
+<br>
+
+_Next: [Getting Started](./gettingStarted.md)_

@@ -1,27 +1,17 @@
-# Welcome to MERN Stack Project
+# Table of Contents
 
-> **MERN Stack Warning:**
->
-> You have to Very good understanding of JavaScript before start MERN Stack.
+- [Technologies Used](./technologiesUsed.md)
+  - [MongoDB](#mongodb)
+  - [Express](#express)
+  - [React](#react)
+  - [NodeJS](#nodejs)
 
-## Table of Contents
+## MongoDB
 
-- [Overview](#overview)
+## Express
 
-  - [File Structure](#file-structure)
-  - [Technologies Used](./technologiesUsed.md)
-    - [MongoDB](#mongodb)
-    - [Express](#express)
-    - [React](#react)
-    - [NodeJS](#nodejs)
+## React
 
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](./installation.md)
-    - [Client](#client)
-      -[]
-    - [Server](server)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## NodeJS
+
+_Previous: [File Structure](./README.md/#file-structure)_ | _Next: [Getting Started](./README.md/#getting-started)_

@@ -1,22 +1,3 @@
-# Welcome to MERN Stack Project
-
-> **MERN Stack Warning:**
->
-> You have to Very good understanding of JavaScript before start MERN Stack.
-
-## Table of Contents
-
-- [Overview](#overview)
-
-  - [File Structure](#file-structure)
-  - [Technologies Used](./technologiesUsed.md)
-    - [MongoDB](#mongodb)
-    - [Express](#express)
-    - [React](#react)
-    - [NodeJS](#nodejs)
-
-- [Getting Started](#getting-started)
-  - [Prerequisites](./README.md/#prerequisites)
   - [Installation](./installation.md)
     - [Client](#client)
       -[]
@@ -56,3 +37,5 @@ cd client
 npm install
 npm run dev
 ```
+
+_Previous: [File 4](file4.md)_ | _Next: [File 5](file5.md)_
