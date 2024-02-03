@@ -1,7 +1,7 @@
 - [Installation](./installation.md)
-     - [Client](#client)
-          - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
-     - [Server](server)
+  - [Client](#client)
+    - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
+  - [Server](server)
 - [Project Structure](#project-structure)
 
 ## Client
@@ -12,7 +12,9 @@ Creat a folder on your computer for you project
 mkdir folder_name
 ```
 
-### [Vite](https://vitejs.dev/guide/)
+### [Vite Website](https://vitejs.dev/guide/)
+
+### [Vite Page](./client.md)
 
 Inside your project folder
 
