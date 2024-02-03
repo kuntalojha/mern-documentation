@@ -1,7 +1,7 @@
 - [Installation](./installation.md)
-  - [Client](#client)
-    - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
-  - [Server](server)
+     - [Client](#client)
+          - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
+     - [Server](server)
 - [Project Structure](#project-structure)
 
 ## Client

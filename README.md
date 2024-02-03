@@ -8,6 +8,8 @@
 
 - [File Structure](#file-structure)
 
+- [JavaScript](./technologiesUsed.md/#javascript)
+
 - [Technologies Used](./technologiesUsed.md)
 
   - [MongoDB](./technologiesUsed.md#mongodb)
@@ -15,7 +17,10 @@
   - [React](./technologiesUsed.md#react)
   - [NodeJS](./technologiesUsed.md#nodejs)
 
+- [npm package](./npmPackage.md)
+
 - [Getting Started](./gettingStarted.md)
+
   - [Prerequisites](./gettingStarted.md)
   - [Installation](./gettingStarted.md)
     - [Client](./client.md)
@@ -65,8 +70,9 @@ project-root/
   - Mongoose: MongoDB object modeling for Node.js.
 
 - **Authentication:**
+
   - JSON Web Tokens (JWT): Secure and compact way of representing claims to be transferred between two parties.
 
 <br>
 
-_Next: [Getting Started](./gettingStarted.md)_
+_Next: [JavaScript](./gettingStarted.md)_ | _Next:[Technologies Used](./technologiesUsed.md)_ | _Next: [Getting Started](./gettingStarted.md)_

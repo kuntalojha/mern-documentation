@@ -1,10 +1,15 @@
 # Table of Contents
 
+- [JavaScript](#javascript)
+
 - [Technologies Used](./technologiesUsed.md)
-  - [MongoDB](#mongodb)
-  - [Express](#express)
-  - [React](#react)
-  - [NodeJS](#nodejs)
+  
+     - [MongoDB](#mongodb)
+     - [Express](#express)
+     - [React](#react)
+     - [NodeJS](#nodejs)
+
+## JavaScript
 
 ## MongoDB
 

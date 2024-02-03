@@ -1,7 +1,7 @@
 # Table of Contents
+
 - [Server](#server)
 - [File Structure](./server.md))
-
 
 ## Server
 

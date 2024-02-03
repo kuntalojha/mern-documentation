@@ -4,11 +4,13 @@
   - [Prerequisites](#prerequisites)
   - [Prerequisites For new Project](prerequisites-for-new-project)
     - [Extension](extenstion)
-  - [Installation](./installation.md)
-    - [Client](./client.md)
-    - [Server](./server.md)
+- [Installation](./installation.md)
+  - [Client](./client.md)
+  - [Server](./server.md)
 
 ## Getting Started
+
+You have to good knowledge about [JavaScript](./technologiesUsed.md/#javascript) and [MongoDB](./technologiesUsed.md/#mongodb),[Express](./technologiesUsed.md/#express),[React](./technologiesUsed.md/#react),[NodeJs](./technologiesUsed.md/#nodejs)
 
 ## Prerequisites
 
@@ -17,7 +19,7 @@
 
 ## Prerequisites For new Project
 
-Follow [Server](./server.md)
+Follow [Client](./client.md)
 
 ### Extension
 
