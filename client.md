@@ -39,6 +39,13 @@ npm install
 npm run dev
 ```
 
+> This is one line comment.
+
+```
+npm create vite@latest client -- --template react && cd client && npm install && npm run dev
+
+```
+
 ### [Install Tailwind CSS with Vite](https://tailwindcss.com/docs/guides/vite)
 
 1. we already done the 1st steap so now we fllow the 2nd steap

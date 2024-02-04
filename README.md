@@ -33,24 +33,27 @@
 
 ```
 project-root/
-|-- client/         # React client-side code
+|-- client/             # React client-side code
 |   |-- public/
 |   |-- src/
 |       |-- components/
 |       |-- containers/
+|       |-- api/        # Here add the api data
 |       |-- App.js
 |       |-- index.js
 |   |-- package.json
-|-- server/         # Node.js Express server-side code
+|   |-- README.md       # This one if you want then you can use
+|-- server/             # Node.js Express server-side code
 |   |-- routes/
 |   |-- controllers/
 |   |-- models/
 |   |-- config/
 |   |-- server.js
 |   |-- package.json
+|   |-- README.md      # This one if you want the you can use
 |-- .gitignore
 |-- package.json
-|-- README.md
+|-- README.md          # Must be use this one
 ```
 
 ## Technologies Used
