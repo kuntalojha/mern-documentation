@@ -7,7 +7,7 @@
 
 ## Fornt-End npm Package
 
-### 1. `vite`
+### 1. `vite` (Visite Website)
 
 > - 💡 Instant Server Start
 > - ⚡️ Lightning Fast HMR
@@ -30,7 +30,34 @@
 > - [GitHub](https://github.com/remix-run/react-router)
 > - [Website](https://reactrouter.com/en/main)
 
-### 3. `package_name`
+### 3. `flowbite-react` (Visite Website)
+
+- > Open-source UI component library and front-end development framework based on Tailwind CSS
+
+> `npm i flowbite-react` or `npm install flowbite-react`
+>
+> - [GitHub](https://github.com/themesberg/flowbite-react)
+> - [Website](https://www.flowbite-react.com/docs/getting-started/introduction)
+
+### 4. `react-icons`
+
+- > Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+
+> `npm i react-icons` or `npm install react-icons`
+>
+> - [GitHub](https://github.com/react-icons/react-icons)
+> - [Website](https://react-icons.github.io/react-icons/)
+
+### 5. `package_name`
+
+- > Write a short discription about this npm here
+
+> `npm i package_name` or `npm install package_name`
+>
+> - [GitHub](https://github.com/motdotla/dotenv)
+> - [Website](https://www.dotenv.org/)
+
+### 5. `package_name`
 
 - > Write a short discription about this npm here
 

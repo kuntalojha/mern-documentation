@@ -4,6 +4,7 @@
   - [Client](#client)
     - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
     - [React Router DOM](https://reactrouter.com/en/main)
+    - [Flowbite React](https://www.flowbite-react.com/)
   - [Server](server)
 - [Project Structure](#project-structure)
 
@@ -101,6 +102,30 @@ export default {
 6. - In `index.html` delete `<link rel="icon" type="image/svg+xml" href="/vite.svg" /> `
    - change the `<title> Give a name according to your project </title>`
 7. src/ App.jsx (delete everything) and write `rfc` means reactFunctionalComponent
+
+**For run our applaction use** `npm run dev`
+
+## Flowbite React
+
+### Install Flowbite React
+1. Run the following command to install `flowbite-react`:
+   `npm i flowbite-react`
+
+2. Add the Flowbite plugin to `tailwind.config.js`, and include content from `flowbite-react`
+
+```
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    // This one for followbite-react
+    'node_modules/flowbite-react/lib/esm/**/*.js',
+  ],
+  plugins: [
+    // This one also for followbite-react
+    require('flowbite/plugin'),
+  ],
+};
+```
 
 **For run our applaction use** `npm run dev`
 
