@@ -1,4 +1,6 @@
-# Vite
+## Table of Contents
+
+## [Vite](./vite.md)
 
 `npm install --save-dev vite`
 
@@ -38,4 +40,3 @@ npm create vite@latest client -- --template react && cd client && npm install &&
 >
 > 1. [Learn Vite – Frontend Build Tool Course By - freeCodeCamp.org ](https://www.youtube.com/watch?v=VAeRhmpcWEQ)
 > 2. [Add this later]()
-

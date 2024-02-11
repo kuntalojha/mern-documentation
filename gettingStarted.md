@@ -4,7 +4,7 @@
   - [Prerequisites](#prerequisites)
   - [Prerequisites For new Project](prerequisites-for-new-project)
     - [Extension](extenstion)
-- [Installation](./installation.md)
+- Installation
   - [Client](./client.md)
   - [Server](./server.md)
 

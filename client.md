@@ -1,3 +1,4 @@
+## Table of Contents
 - [Installation](./installation.md)
   - [Client](#client)
     - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
@@ -24,9 +25,9 @@ npm create vite@latest
 
 > This **npm create vite@latest** comment use for creat react using vite latest version.
 
-> 1. Project name **client**
-> 2. Select a framework **React** ( if we want to use React)
-> 3. Select a varition **JavaScript + SWC** or what ever you want .
+> 1. Project name `client`
+> 2. Select a framework `React` ( if we want to use React)
+> 3. Select a varition `JavaScript + SWC` or what ever you want. Use SWC for make faster JavaScript.
 
 <br>
 Then you should go to client folder, the run npm i and for install all node_module package. After that npm run dev is use for run react using vite in the client side.
@@ -79,6 +80,7 @@ export default {
 
 4. Add the Tailwind directives to your CSS
    Add the @tailwind directives for each of Tailwind’s layers to your `./src/index.css` file.
+   Delete everything from the `./src/index.css` and add this code to the file
 
 ```
 @tailwind base;
@@ -93,8 +95,11 @@ export default {
 3. index.html (delet link `href="/vite.svg"`)
 4. Change the title
 5. src/ assets/ `react.svg`
-6. App.jsx (delete everything) and write `rfc` means reactFunctionalComponent
+
+6. - In `index.html` delete `<link rel="icon" type="image/svg+xml" href="/vite.svg" /> `
+   - change the `<title> Give a name according to your project </title>`
+7. src/ App.jsx (delete everything) and write `rfc` means reactFunctionalComponent
 
 **For run our applaction use** `npm run dev`
 
-_Previous: [File 4](file4.md)_ | _Next: [File 5](file5.md)_
+_Previous: [npm Package ](./npmPackage.md)_ | _Previous: [Getting Started](./gettingStarted.md)_ | _Next: [Server](./server.md)_
