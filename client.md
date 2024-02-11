@@ -1,7 +1,9 @@
 ## Table of Contents
+
 - [Installation](./installation.md)
   - [Client](#client)
     - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
+    - [React Router DOM](https://reactrouter.com/en/main)
   - [Server](server)
 - [Project Structure](#project-structure)
 
