@@ -9,19 +9,21 @@
 
 ### 1. `vite` (Visite Website)
 
- - 💡 Instant Server Start
- - ⚡️ Lightning Fast HMR
- - 🛠️ Rich Features
- - 📦 Optimized Build
- - 🔩 Universal Plugin Interface
- - 🔑 Fully Typed APIs
+- 💡 Instant Server Start
+- ⚡️ Lightning Fast HMR
+- 🛠️ Rich Features
+- 📦 Optimized Build
+- 🔩 Universal Plugin Interface
+- 🔑 Fully Typed APIs
 
 ```
 npm create vite@latest
 ```
+
 ```
 npm i vite
 ```
+
 ```
 npm install vite
 ```
@@ -36,6 +38,7 @@ npm install vite
 ```
 npm i tailwindcss
 ```
+
 ```
 npm install tailwindcss
 ```
@@ -60,17 +63,18 @@ npm install react-router-dom
 
 ### 4. `flowbite-react` (Visite Website)
 
--  Open-source UI component library and front-end development framework based on Tailwind CSS
+- Open-source UI component library and front-end development framework based on Tailwind CSS
 
- ```
- npm i flowbite-react
- ```
- ```
- npm install flowbite-react
- ```
+```
+npm i flowbite-react
+```
 
- - [GitHub](https://github.com/themesberg/flowbite-react)
- - [Website](https://www.flowbite-react.com/docs/getting-started/introduction)
+```
+npm install flowbite-react
+```
+
+- [GitHub](https://github.com/themesberg/flowbite-react)
+- [Website](https://www.flowbite-react.com/docs/getting-started/introduction)
 
 ### 5. `react-icons`
 
@@ -79,6 +83,7 @@ npm install react-router-dom
 ```
 npm i react-icons
 ```
+
 ```
 npm install react-icons
 ```
@@ -93,18 +98,20 @@ npm install react-icons
 ```
 npm i package_name
 ```
-```npm install package_name```
+
+`npm install package_name`
 
 - [GitHub](https://github.com/motdotla/dotenv)
 - [Website](https://www.dotenv.org/)
 
 ### 7. `package_name`
 
--  Write a short discription about this npm here
+- Write a short discription about this npm here
 
 ```
 npm i package_name
 ```
+
 ```
 npm install package_name
 ```
@@ -119,27 +126,30 @@ npm install package_name
 ```
 npm i dotenv
 ```
+
 ```
 npm install dotenv
 ```
+
 - [GitHub](https://github.com/motdotla/dotenv)
 - [Website](https://www.dotenv.org/)
 
 ## Back-End npm Package
 
-### 1. `package_name`
+### 1. `express`
 
-- Write a short discription about this npm here
+- Fast, unopinionated, minimalist web framework for Node.js.
 
 ```
-npm i package_name
-```
-```
-npm install package_name
+npm i express
 ```
 
-- [GitHub](https://github.com/motdotla/dotenv)
-- [Website](https://www.dotenv.org/)
+```
+npm install express
+```
+
+- [GitHub](https://github.com/expressjs/express)
+- [Website](https://expressjs.com/)
 
 ## Middleware npm Package
 
@@ -150,10 +160,10 @@ npm install package_name
 ```
 npm i package_name
 ```
+
 ```
 npm install package_name
 ```
 
 - [GitHub](https://github.com/motdotla/dotenv)
 - [Website](https://www.dotenv.org/)
-
