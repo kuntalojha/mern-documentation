@@ -5,6 +5,7 @@
     - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
     - [React Router DOM](https://reactrouter.com/en/main)
     - [Flowbite React](https://www.flowbite-react.com/)
+    - [React Icons](https://www.npmjs.com/package/react-icons)
   - [Server](server)
 - [Project Structure](#project-structure)
 
@@ -108,6 +109,7 @@ export default {
 ## Flowbite React
 
 ### Install Flowbite React
+
 1. Run the following command to install `flowbite-react`:
    `npm i flowbite-react`
 

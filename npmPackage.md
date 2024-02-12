@@ -9,89 +9,151 @@
 
 ### 1. `vite` (Visite Website)
 
-> - 💡 Instant Server Start
-> - ⚡️ Lightning Fast HMR
-> - 🛠️ Rich Features
-> - 📦 Optimized Build
-> - 🔩 Universal Plugin Interface
-> - 🔑 Fully Typed APIs
+ - 💡 Instant Server Start
+ - ⚡️ Lightning Fast HMR
+ - 🛠️ Rich Features
+ - 📦 Optimized Build
+ - 🔩 Universal Plugin Interface
+ - 🔑 Fully Typed APIs
 
-> `npm create vite@latest`(use this ) or `npm i vite` or`npm install vite`
->
-> - [GitHub](https://github.com/vitejs/vite)
-> - [Website](https://vitejs.dev/guide/)
+```
+npm create vite@latest
+```
+```
+npm i vite
+```
+```
+npm install vite
+```
 
-### 2. `react-router-dom`
+- [GitHub](https://github.com/vitejs/vite)
+- [Website](https://vitejs.dev/guide/)
 
-- > The react-router-dom package contains bindings for using React Router in web applications. Please see the Getting Started guide for more information on how to get started with React Router.
+### 2. `tailwindcss` (Visite Website)
 
-> `npm i react-router-dom` or `npm install react-router-dom`
->
-> - [GitHub](https://github.com/remix-run/react-router)
-> - [Website](https://reactrouter.com/en/main)
+- A utility-first CSS framework for rapidly building custom user interfaces.
 
-### 3. `flowbite-react` (Visite Website)
+```
+npm i tailwindcss
+```
+```
+npm install tailwindcss
+```
 
-- > Open-source UI component library and front-end development framework based on Tailwind CSS
+- [GitHub](https://github.com/tailwindlabs/tailwindcss)
+- [Website](https://tailwindcss.com/)
 
-> `npm i flowbite-react` or `npm install flowbite-react`
->
-> - [GitHub](https://github.com/themesberg/flowbite-react)
-> - [Website](https://www.flowbite-react.com/docs/getting-started/introduction)
+### 3. `react-router-dom`
 
-### 4. `react-icons`
+- The react-router-dom package contains bindings for using React Router in web applications. Please see the Getting Started guide for more information on how to get started with React Router.
 
-- > Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+```
+npm i react-router-dom
+```
 
-> `npm i react-icons` or `npm install react-icons`
->
-> - [GitHub](https://github.com/react-icons/react-icons)
-> - [Website](https://react-icons.github.io/react-icons/)
+```
+npm install react-router-dom
+```
 
-### 5. `package_name`
+- [GitHub](https://github.com/remix-run/react-router)
+- [Website](https://reactrouter.com/en/main)
 
-- > Write a short discription about this npm here
+### 4. `flowbite-react` (Visite Website)
 
-> `npm i package_name` or `npm install package_name`
->
-> - [GitHub](https://github.com/motdotla/dotenv)
-> - [Website](https://www.dotenv.org/)
+-  Open-source UI component library and front-end development framework based on Tailwind CSS
 
-### 5. `package_name`
+ ```
+ npm i flowbite-react
+ ```
+ ```
+ npm install flowbite-react
+ ```
 
-- > Write a short discription about this npm here
+ - [GitHub](https://github.com/themesberg/flowbite-react)
+ - [Website](https://www.flowbite-react.com/docs/getting-started/introduction)
 
-> `npm i package_name` or `npm install package_name`
->
-> - [GitHub](https://github.com/motdotla/dotenv)
-> - [Website](https://www.dotenv.org/)
+### 5. `react-icons`
+
+- Include popular icons in your React projects easily with react-icons, which utilizes ES6 imports that allows you to include only the icons that your project is using.
+
+```
+npm i react-icons
+```
+```
+npm install react-icons
+```
+
+- [GitHub](https://github.com/react-icons/react-icons)
+- [Website](https://react-icons.github.io/react-icons/)
+
+### 6. `package_name`
+
+- Write a short discription about this npm here
+
+```
+npm i package_name
+```
+```npm install package_name```
+
+- [GitHub](https://github.com/motdotla/dotenv)
+- [Website](https://www.dotenv.org/)
+
+### 7. `package_name`
+
+-  Write a short discription about this npm here
+
+```
+npm i package_name
+```
+```
+npm install package_name
+```
+
+- [GitHub](https://github.com/motdotla/dotenv)
+- [Website](https://www.dotenv.org/)
 
 ### . `dotenv`
 
-- > Write a short discription about this npm here
-  > `npm i dotenv` or `npm install dotenv`
-  >
-  > - [GitHub](https://github.com/motdotla/dotenv)
-  > - [Website](https://www.dotenv.org/)
+- Write a short discription about this npm here
+
+```
+npm i dotenv
+```
+```
+npm install dotenv
+```
+- [GitHub](https://github.com/motdotla/dotenv)
+- [Website](https://www.dotenv.org/)
 
 ## Back-End npm Package
 
 ### 1. `package_name`
 
-- > Write a short discription about this npm here
+- Write a short discription about this npm here
 
-> `npm i package_name` or `npm install package_name`
->
-> - [GitHub](https://github.com/motdotla/dotenv)
-> - [Website](https://www.dotenv.org/)
+```
+npm i package_name
+```
+```
+npm install package_name
+```
+
+- [GitHub](https://github.com/motdotla/dotenv)
+- [Website](https://www.dotenv.org/)
 
 ## Middleware npm Package
 
 ### 1. `package_name`
 
-- > Write a short discription about this npm here
+- Write a short discription about this npm here
 
-> `npm i package_name` or `npm install package_name`
->
-> - [GitHub](https://github.com/motdotla/dotenv)
-> - [Website](https://www.dotenv.org/)
+```
+npm i package_name
+```
+```
+npm install package_name
+```
+
+- [GitHub](https://github.com/motdotla/dotenv)
+- [Website](https://www.dotenv.org/)
+

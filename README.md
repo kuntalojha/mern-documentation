@@ -25,6 +25,9 @@
   - [Installation](./gettingStarted.md)
     - [Client](./client.md)
       - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite)
+      - [React Router DOM](https://reactrouter.com/en/main)
+      - [Flowbite React](https://www.flowbite-react.com/)
+      - [React Icons](https://www.npmjs.com/package/react-icons)
     - [Server](./server.md)
 
 ## File Structure
