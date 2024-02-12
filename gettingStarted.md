@@ -14,8 +14,8 @@ You have to good knowledge about [JavaScript](./technologiesUsed.md/#javascript)
 
 ## Prerequisites
 
-- Node.js and npm installed on your machine.
-- MongoDB server running (local or remote).
+- **Node.js** and npm installed on your machine.
+- **MongoDB** server running **(local or remote)**.
 
 ## Prerequisites For new Project
 

@@ -151,6 +151,52 @@ npm install express
 - [GitHub](https://github.com/expressjs/express)
 - [Website](https://expressjs.com/)
 
+### 2. `nodemon`
+
+- Fast, unopinionated, minimalist web framework for Node.js.
+
+For downlode nodemon 1.3.6 version
+
+```
+npm i nodemon@1.3.6
+```
+
+This one use for downlode nodemon
+
+```
+npm i nodemon
+```
+
+```
+npm install nodemon
+```
+
+This one use for downlode nodemon in **globally**
+
+```
+npm install -g nodemon
+```
+
+- [GitHub](https://github.com/expressjs/express)
+- [Website](https://expressjs.com/)
+
+
+### 3. `mongoose`
+
+- Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports Node.js and Deno (alpha).
+
+```
+npm i mongoose
+```
+
+```
+npm install express
+```
+
+- [GitHub](https://github.com/Automattic/mongoose)
+- [Website](https://mongoosejs.com/)
+
+
 ## Middleware npm Package
 
 ### 1. `package_name`
