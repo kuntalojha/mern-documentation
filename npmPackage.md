@@ -180,7 +180,6 @@ npm install -g nodemon
 - [GitHub](https://github.com/expressjs/express)
 - [Website](https://expressjs.com/)
 
-
 ### 3. `mongoose`
 
 - Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment. Mongoose supports Node.js and Deno (alpha).
@@ -196,6 +195,20 @@ npm install express
 - [GitHub](https://github.com/Automattic/mongoose)
 - [Website](https://mongoosejs.com/)
 
+### 4. `dotenv`
+
+- Dotenv is a zero-dependency module that loads environment variables from a .env file into process.env. Storing configuration in the environment separate from code is based on The Twelve-Factor App methodology.
+
+```
+npm i dotenv
+```
+
+```
+npm install dotenv
+```
+
+- [GitHub](https://github.com/motdotla/dotenv)
+- [Website](https://dotenvx.com/)
 
 ## Middleware npm Package
 
