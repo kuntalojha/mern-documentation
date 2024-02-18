@@ -210,6 +210,44 @@ npm install dotenv
 - [GitHub](https://github.com/motdotla/dotenv)
 - [Website](https://dotenvx.com/)
 
+### 5. `bcryptjs`
+
+- **Security considerations**
+  Besides incorporating a salt to protect against rainbow table attacks, bcrypt is an adaptive function: over time, the iteration count can be increased to make it slower, so it remains resistant to brute-force search attacks even with increasing computation power. (see)
+- This package is use for manipulating password
+
+```
+npm i bcryptjs
+
+```
+
+```
+npm install bcryptjs
+
+```
+
+- [GitHub](https://github.com/dcodeIO/bcrypt.js)
+- [Website](github.com/dcodeIO/bcrypt.js#readme)
+
+### 6. `package_name`
+
+- Write a short discription about this npm here
+
+```
+
+npm i package_name
+
+```
+
+```
+
+npm install package_name
+
+```
+
+- [GitHub](https://github.com/motdotla/dotenv)
+- [Website](https://www.dotenv.org/)
+
 ## Middleware npm Package
 
 ### 1. `package_name`
@@ -217,11 +255,15 @@ npm install dotenv
 - Write a short discription about this npm here
 
 ```
+
 npm i package_name
+
 ```
 
 ```
+
 npm install package_name
+
 ```
 
 - [GitHub](https://github.com/motdotla/dotenv)
