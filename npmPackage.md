@@ -91,15 +91,17 @@ npm install react-icons
 - [GitHub](https://github.com/react-icons/react-icons)
 - [Website](https://react-icons.github.io/react-icons/)
 
-### 6. `package_name`
+### 6. `dotenv`
 
 - Write a short discription about this npm here
 
 ```
-npm i package_name
+npm i dotenv
 ```
 
-`npm install package_name`
+```
+npm install dotenv
+```
 
 - [GitHub](https://github.com/motdotla/dotenv)
 - [Website](https://www.dotenv.org/)
@@ -112,23 +114,21 @@ npm i package_name
 npm i package_name
 ```
 
-```
-npm install package_name
-```
+`npm install package_name`
 
 - [GitHub](https://github.com/motdotla/dotenv)
 - [Website](https://www.dotenv.org/)
 
-### . `dotenv`
+### 8. `package_name`
 
 - Write a short discription about this npm here
 
 ```
-npm i dotenv
+npm i package_name
 ```
 
 ```
-npm install dotenv
+npm install package_name
 ```
 
 - [GitHub](https://github.com/motdotla/dotenv)
@@ -226,27 +226,37 @@ npm install bcryptjs
 
 ```
 
+#### How to use it
+
+// Hash password using bcryptjs<br>
+// here 10 is number of round mixed our password.
+
+```javascript
+const password = 'dfk^&083iHFsqn';
+const hashedPassword = bcryptjs.hashSync(password, 10);
+```
+
 - [GitHub](https://github.com/dcodeIO/bcrypt.js)
 - [Website](github.com/dcodeIO/bcrypt.js#readme)
 
-### 6. `package_name`
+### 6. `jsonwebtoken`
 
-- Write a short discription about this npm here
-
-```
-
-npm i package_name
+- This was developed against draft-ietf-oauth-json-web-token-08. It makes use of node-jws
 
 ```
 
-```
-
-npm install package_name
+npm i jsonwebtoken
 
 ```
 
-- [GitHub](https://github.com/motdotla/dotenv)
-- [Website](https://www.dotenv.org/)
+```
+
+npm install jsonwebtoken
+
+```
+
+- [GitHub](https://github.com/auth0/node-jsonwebtoken)
+- [Website](https://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
 
 ## Middleware npm Package
 
