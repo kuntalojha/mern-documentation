@@ -6,6 +6,7 @@
     - [React Router DOM](https://reactrouter.com/en/main)
     - [Flowbite React](https://www.flowbite-react.com/)
     - [React Icons](https://www.npmjs.com/package/react-icons)
+    - [Redux Toolkit](https://redux-toolkit.js.org/tutorials/quick-start)
   - [Server](server)
 - [Project Structure](#project-structure)
 

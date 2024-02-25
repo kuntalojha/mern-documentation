@@ -258,6 +258,44 @@ npm install jsonwebtoken
 - [GitHub](https://github.com/auth0/node-jsonwebtoken)
 - [Website](https://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
 
+### 7. `@reduxjs/toolkit`
+
+- The official, opinionated, batteries-included toolset for efficient Redux development
+
+```
+
+npm i @reduxjs/toolkit
+
+```
+
+```
+
+npm install @reduxjs/toolkit
+
+```
+
+- [GitHub](https://github.com/reduxjs/redux-toolkit)
+- [Website](https://redux-toolkit.js.org/tutorials/quick-start)
+
+### 8. `package_name`
+
+- Write a short discription about this npm here
+
+```
+
+npm i package_name
+
+```
+
+```
+
+npm install package_name
+
+```
+
+- [GitHub](https://github.com/motdotla/dotenv)
+- [Website](https://www.dotenv.org/)
+
 ## Middleware npm Package
 
 ### 1. `package_name`
