@@ -106,7 +106,26 @@ npm install dotenv
 - [GitHub](https://github.com/motdotla/dotenv)
 - [Website](https://www.dotenv.org/)
 
-### 7. `package_name`
+### 7. `@reduxjs/toolkit`
+
+- The official, opinionated, batteries-included toolset for efficient Redux development
+
+```
+
+npm i @reduxjs/toolkit
+
+```
+
+```
+
+npm install @reduxjs/toolkit
+
+```
+
+- [GitHub](https://github.com/reduxjs/redux-toolkit)
+- [Website](https://redux-toolkit.js.org/tutorials/quick-start)
+
+### 8. `package_name`
 
 - Write a short discription about this npm here
 
@@ -119,7 +138,7 @@ npm i package_name
 - [GitHub](https://github.com/motdotla/dotenv)
 - [Website](https://www.dotenv.org/)
 
-### 8. `package_name`
+### 9. `package_name`
 
 - Write a short discription about this npm here
 
@@ -257,25 +276,6 @@ npm install jsonwebtoken
 
 - [GitHub](https://github.com/auth0/node-jsonwebtoken)
 - [Website](https://self-issued.info/docs/draft-ietf-oauth-json-web-token.html)
-
-### 7. `@reduxjs/toolkit`
-
-- The official, opinionated, batteries-included toolset for efficient Redux development
-
-```
-
-npm i @reduxjs/toolkit
-
-```
-
-```
-
-npm install @reduxjs/toolkit
-
-```
-
-- [GitHub](https://github.com/reduxjs/redux-toolkit)
-- [Website](https://redux-toolkit.js.org/tutorials/quick-start)
 
 ### 8. `package_name`
 
